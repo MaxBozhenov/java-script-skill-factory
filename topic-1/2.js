@@ -11,3 +11,7 @@ if (type == 'number') {
 } else {
     console.log("результат не определен")
 }
+
+
+const x = 7;
+const y = 14;
